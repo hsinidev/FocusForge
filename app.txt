@@ -1,0 +1,23 @@
+﻿App Name: FocusForge
+Version: 1.0.0
+Platform: Android / iOS
+Category: Gamified Productivity
+Target Market: Global
+Price Model: Free + $4.99/month Pro
+
+Description:
+A deep-work timer app where every completed focused work block generates building materials to construct, decorate, and expand a small isometric digital village.
+
+Key Features:
+- Pomodoro-style focus timer (custom durations 10-90 min)
+- Each completed block earns resources: wood, stone, gold
+- Build and place isometric buildings in your village
+- Village grows as you maintain focus streaks
+- Session log showing daily/weekly focus hours
+- Background ambient sounds (forest, rain, cafe)
+- Statistics: total focus hours, most productive day/hour
+- Focus goals and project tagging
+
+Target Audience: Knowledge workers, students, freelancers, developers
+Competitors: Forest app, Focusmate, Be Focused
+Unique Value: The village-building reward creates deeper motivation than simple tree-growing
